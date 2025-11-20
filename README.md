@@ -1,4 +1,4 @@
-## **Icecream's Escape (C++ OOPs Project)**
+## **Icecream's Freedom (C++ OOPs Project)**
 **A 3D escape room game built in C++ for Object Oriented programming project**
 
 ### **Game Overview**
