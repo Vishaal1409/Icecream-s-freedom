@@ -27,10 +27,4 @@ object interaction (keys, notes, doors, chests) and a code puzzle.
 *ESC - Close UI menus/Exit game
 
 ### **Objective**
-The objective is to escape the room by obtaining the final Gold Key for the exit door. This requires the player to first explore the environment 
-
-to find and collect two initial items: the Red Key (on the table) and the Blue Key (on the floor). 
-
-Clues for the code lock puzzle (1842) are found by reading notes. Once the code is entered, the player uses the Blue Key to open a chest
-
-which contains the required Gold Key needed for the final escape.
+The objective is to escape the room by obtaining the final Gold Key for the exit door. This requires the player to first explore the environment to find and collect two initial items: the Red Key (on the table) and the Blue Key (on the floor). Clues for the code lock puzzle (1842) are found by reading notes. Once the code is entered, the player uses the Blue Key to open a chest which contains the required Gold Key needed for the final escape.
